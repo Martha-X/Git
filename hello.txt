@@ -1,2 +1,2 @@
 hello world. master branch test
-hello world.
+hello world. hot-fix branch test
